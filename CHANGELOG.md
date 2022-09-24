@@ -2,7 +2,7 @@
 
 ## [2.0.0] - 2022-09-24
 ### Changed
-- **Breaking:** Updated the theme to the new UI for 2022.3
+- **Breaking:** Updated the theme to the new UI of 2022.3
 
 ## [1.0.0] - 2022-02-06
 ### Added
