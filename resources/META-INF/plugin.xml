@@ -9,13 +9,13 @@
     <idea-version since-build="223.0"/>
 
     <description><![CDATA[
-        "Nord" based custom dark theme along with custom editor color scheme
+        A dark blue-grey, Nord based theme and color scheme for the new UI.
     ]]></description>
 
     <change-notes><![CDATA[
         <ul>
-            <li>06.02.2022 - Initial Release</li>
-            <li>24.09.2022 - 2022.3 New UI Compatibility</li>
+            <li><b>2022.09.24</b> New UI compatibility; This version only compatible with 2022.3 and above</li>
+            <li><b>2022.02.06</b> Initial Release</li>
         </ul>
     ]]></change-notes>
 
