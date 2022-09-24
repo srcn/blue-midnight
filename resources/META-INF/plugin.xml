@@ -1,0 +1,29 @@
+<idea-plugin>
+    <id>com.sercanyemen.themes.idea.blue-midnight</id>
+    <version>2.0.0</version>
+
+    <name>Blue Midnight</name>
+    <vendor email="me@sercanyemen.com" url="http://www.sercanyemen.com">Sercan Yemen</vendor>
+    <category>UI</category>
+
+    <idea-version since-build="223.0"/>
+
+    <description><![CDATA[
+        "Nord" based custom dark theme along with custom editor color scheme
+    ]]></description>
+
+    <change-notes><![CDATA[
+        <ul>
+            <li>06.02.2022 - Initial Release</li>
+            <li>24.09.2022 - 2022.3 New UI Compatibility</li>
+        </ul>
+    ]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="blue-midnight" path="/theme/blue_midnight.theme.json"/>
+    </extensions>
+
+</idea-plugin>
