@@ -253,6 +253,7 @@
       "border": "4,0,4,0",
       "Button": {
         "separatorColor": "Grey2",
+        "separatorInset": 4,
         "hoverBackground": "Blue3",
         "leftRightInset": 8
       },
@@ -260,6 +261,11 @@
         "background": "Grey3",
         "foreground": "Grey8"
       }
+    },
+
+    "MainMenu": {
+      "selectionForeground": "Grey12",
+      "selectionBackground": "Grey3"
     },
 
     "MemoryIndicator": {

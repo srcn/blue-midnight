@@ -1862,6 +1862,8 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XML_CUSTOM_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME">
       <value>

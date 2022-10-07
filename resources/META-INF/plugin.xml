@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.sercanyemen.themes.idea.blue-midnight</id>
-    <version>2.0.1</version>
+    <version>2.0.2</version>
 
     <name>Blue Midnight</name>
     <vendor email="me@sercanyemen.com" url="http://www.sercanyemen.com">Sercan Yemen</vendor>
@@ -14,6 +14,7 @@
 
     <change-notes><![CDATA[
         <ul>
+            <li><b>2022.10.07</b> Added support for the new "Custom Tag Name" color option</li>
             <li><b>2022.10.04</b> Adjusted default breadcrumb colors to make them less distracting</li>
             <li><b>2022.09.24</b> New UI compatibility; This version only compatible with 2022.3 and above</li>
             <li><b>2022.02.06</b> Initial Release</li>
