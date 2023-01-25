@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.4] - 2023-01-25
+### Added
+- Made the "Diff & Merge" colors more readable
+
 ## [2.0.3] - 2023-01-25
 ### Added
 - Added support for "Run Widget" & "Code with Me" colors

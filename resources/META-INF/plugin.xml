@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.sercanyemen.themes.idea.blue-midnight</id>
-    <version>2.0.3</version>
+    <version>2.0.4</version>
 
     <name>Blue Midnight</name>
     <vendor email="me@sercanyemen.com" url="http://www.sercanyemen.com">Sercan Yemen</vendor>
@@ -13,6 +13,12 @@
     ]]></description>
 
     <change-notes><![CDATA[
+        <h2><b>[2.0.4] - 2023-01-25</b></h2>
+        <b>Added</b>
+        <ul>
+            <li>Made the "Diff & Merge" colors more readable</li>
+        </ul>
+
         <h2><b>[2.0.3] - 2023-01-25</b></h2>
         <b>Added</b>
         <ul>
