@@ -85,7 +85,7 @@
     "*": {
       "foreground": "Grey12",
       "background":  "Grey2",
-      "borderColor": "Grey1",
+      "borderColor": "Grey4",
 
       "disabledText": "Grey6",
       "disabledForeground": "Grey6",
@@ -132,7 +132,7 @@
       "MnemonicCurrent.background": "Blue7"
     },
 
-    "Borders.color": "Grey1",
+    "Borders.color": "Grey4",
     "Borders.ContrastBorderColor": "Grey1",
 
     "Breakpoint.iconHoverAlpha": 0.35,
