@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3] - 2023-01-25
+### Added
+- Added support for "Run Widget" & "Code with Me" colors
+
+### Changed
+- Changed border colors to a lighter gray for better visibility
+
 ## [2.0.2] - 2022-10-07
 ### Added
 - Added support for the new "Custom Tag Name" color

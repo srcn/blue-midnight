@@ -13,13 +13,40 @@
     ]]></description>
 
     <change-notes><![CDATA[
+        <h2><b>[2.0.3] - 2023-01-25</b></h2>
+        <b>Added</b>
         <ul>
-            <li><b>2023.01.25</b> Added support for "Run Widget" & "Code With Me" colors</li>
-            <li><b>2022.10.07</b> Added support for the new "Custom Tag Name" color option</li>
-            <li><b>2022.10.04</b> Adjusted default breadcrumb colors to make them less distracting</li>
-            <li><b>2022.09.24</b> New UI compatibility; This version only compatible with 2022.3 and above</li>
-            <li><b>2022.02.06</b> Initial Release</li>
+            <li>Added support for "Run Widget" & "Code with Me" colors</li>
         </ul>
+        <b>Changed</b>
+        <ul>
+            <li>Changed border colors to a lighter gray for better visibility</li>
+        </ul>
+
+        <h2><b>[2.0.2] - 2022-10-07</b></h2>
+        <b>Added</b>
+        <ul>
+            <li>Added support for the new "Custom Tag Name" color</li>
+        </ul>
+
+        <h2><b>[2.0.1] - 2022-10-04</b></h2>
+        <b>Changed</b>
+        <ul>
+            <li>Adjusted default breadcrumb colors to make them less distracting</li>
+        </ul>
+
+        <h2><b>[2.0.0] - 2022-09-24</b></h2>
+        <b>Changed</b>
+        <ul>
+            <li><b>Breaking:</b> Updated the theme to the new UI of 2022.3</li>
+        </ul>
+
+        <h2><b>[1.0.0] - 2022-02-06</b></h2>
+        <b>Added</b>
+        <ul>
+            <li>Initial Release</li>
+        </ul>
+
     ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
