@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.5] - 2023-01-28
+### Changed
+- Better match the guideline and various other editor line colors with border color
+
 ## [2.0.4] - 2023-01-25
 ### Added
 - Made the "Diff & Merge" colors more readable

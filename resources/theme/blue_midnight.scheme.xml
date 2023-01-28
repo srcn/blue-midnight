@@ -14,8 +14,8 @@
     <option name="DIAGRAM_DEFAULT_EDGE" value="d8dee9" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="88c0d0" />
     <option name="DIAGRAM_INNER_EDGE" value="8fbcbb" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="4c566a" />
-    <option name="DIAGRAM_NODE_HEADER" value="4c566a" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="3B455C" />
+    <option name="DIAGRAM_NODE_HEADER" value="3B455C" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="434c5e" />
     <option name="DIAGRAM_NOTE_BORDER" value="434c5e" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="a3be8c" />
@@ -23,8 +23,8 @@
     <option name="ERROR_HINT" value="293040" />
     <option name="FILESTATUS_ADDED" value="a3be8c" />
     <option name="FILESTATUS_DELETED" value="bf616a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c566a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="3B455C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3B455C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
@@ -38,32 +38,32 @@
     <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="293040" />
     <option name="GUTTER_BACKGROUND" value="1f2430" />
-    <option name="INDENT_GUIDE" value="4c566a" />
+    <option name="INDENT_GUIDE" value="3B455C" />
     <option name="INFORMATION_HINT" value="293040" />
-    <option name="LINE_NUMBERS_COLOR" value="4c566a" />
+    <option name="LINE_NUMBERS_COLOR" value="3B455C" />
     <option name="LOOKUP_COLOR" value="293040" />
     <option name="METHOD_SEPARATORS_COLOR" value="d8dee9" />
     <option name="MODIFIED_LINES_COLOR" value="ebcb8b" />
-    <option name="NOTIFICATION_BACKGROUND" value="4c566a" />
+    <option name="NOTIFICATION_BACKGROUND" value="3B455C" />
     <option name="PROMOTION_PANE" value="293040" />
     <option name="QUESTION_HINT" value="293040" />
     <option name="RECENT_LOCATIONS_SELECTION" value="293040" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
+    <option name="RIGHT_MARGIN_COLOR" value="3B455C" />
     <option name="SELECTED_INDENT_GUIDE" value="737d92" />
     <option name="SELECTED_TEARLINE_COLOR" value="434c5e" />
     <option name="SELECTION_BACKGROUND" value="434c5e" />
     <option name="SEPARATOR_ABOVE_COLOR" value="161921" />
     <option name="SEPARATOR_BELOW_COLOR" value="161921" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
-    <option name="TEARLINE_COLOR" value="4c566a" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="3B455C" />
+    <option name="TEARLINE_COLOR" value="3B455C" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="3b4252" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3b4252" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="3b4252" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="3b4252" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="3b4252" />
-    <option name="VISUAL_INDENT_GUIDE" value="4c566a" />
-    <option name="WHITESPACES" value="4c566a" />
+    <option name="VISUAL_INDENT_GUIDE" value="3B455C" />
+    <option name="WHITESPACES" value="3B455C" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ebcb8b" />
   </colors>
   <attributes>
@@ -194,7 +194,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4c566a" />
+        <option name="BACKGROUND" value="3B455C" />
         <option name="EFFECT_COLOR" value="88c0d0" />
         <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
       </value>
@@ -927,7 +927,7 @@
     </option>
     <option name="HAML_XHTML">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -963,7 +963,7 @@
     </option>
     <option name="HASKELL_PAGMA">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1255,7 +1255,7 @@
     </option>
     <option name="LUA_LUADOC_VALUE">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1371,7 +1371,7 @@
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -1437,7 +1437,7 @@
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PUPPET_HEREDOC_BODY">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1681,7 +1681,7 @@
     </option>
     <option name="ScalaDoc @param value">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="3B455C" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
