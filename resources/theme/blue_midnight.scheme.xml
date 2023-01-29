@@ -21,21 +21,21 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="a3be8c" />
     <option name="DOCUMENTATION_COLOR" value="1F2430" />
     <option name="ERROR_HINT" value="293040" />
-    <option name="FILESTATUS_ADDED" value="a3be8c" />
-    <option name="FILESTATUS_DELETED" value="bf616a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="3B455C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3B455C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_ADDED" value="4ade80" />
+    <option name="FILESTATUS_DELETED" value="f87171" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="66769C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="#c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
     <option name="FILESTATUS_MERGED" value="81a1c1" />
-    <option name="FILESTATUS_MODIFIED" value="ebcb8b" />
+    <option name="FILESTATUS_MODIFIED" value="facc15" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="88c0d0" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="88c0d0" />
     <option name="FILESTATUS_UNKNOWN" value="bf616a" />
-    <option name="FILESTATUS_addedOutside" value="a3be8c" />
+    <option name="FILESTATUS_addedOutside" value="4ade80" />
     <option name="FILESTATUS_changelistConflict" value="d08770" />
-    <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
+    <option name="FILESTATUS_modifiedOutside" value="facc15" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="293040" />
     <option name="GUTTER_BACKGROUND" value="1f2430" />
     <option name="INDENT_GUIDE" value="3B455C" />

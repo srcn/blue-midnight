@@ -98,7 +98,7 @@
       "hoverBackground": "Grey3",
       "selectionForeground": "Grey12",
       "selectionInactiveForeground": "Grey12",
-      "selectionInactiveBackground": "Grey4",
+      "selectionInactiveBackground": "Grey3",
 
       "infoForeground": "Grey7",
       "acceleratorForeground": "Grey7",
@@ -199,8 +199,13 @@
     },
 
     "FileColor": {
-      "Yellow": "Yellow1",
-      "Green": "Green1"
+      "Yellow": "#eab30811",
+      "Green": "#22c55e11",
+      "Blue": "#3b82f611",
+      "Gray": "#57668722",
+      "Orange": "#f9731611",
+      "Rose": "#ef444411",
+      "Violet": "#7c3aed11"
     },
 
     "TextField.background": "Grey2",

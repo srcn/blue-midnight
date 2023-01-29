@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.6] - 2023-01-29
+### Changed
+- Better file status colors
+- Decreased the brightness on "inactive background color"
+
 ## [2.0.5] - 2023-01-28
 ### Changed
 - Better match the guideline and various other editor line colors with border color
