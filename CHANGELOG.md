@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.8] - 2023-03-29
+### Changed
+- Fixed file status colors
+
 ## [2.0.7] - 2023-03-29
 ### Added
 - Support for new Inlay Text colors

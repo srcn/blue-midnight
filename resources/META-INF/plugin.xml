@@ -14,6 +14,12 @@
 
     <change-notes><![CDATA[
 
+        <h2><b>[2.0.8] - 2023-03-29</b></h2>
+        <b>Changed</b>
+        <ul>
+            <li>Fixed file status colors</li>
+        </ul>
+
         <h2><b>[2.0.7] - 2023-03-29</b></h2>
         <b>Added</b>
         <ul>

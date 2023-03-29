@@ -19,26 +19,26 @@
     <option name="DIFF_SEPARATOR_WAVE" value="3b455c" />
     <option name="DOCUMENTATION_COLOR" value="1f2430" />
     <option name="ERROR_HINT" value="293040" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_ADDED" value="34d399" />
+    <option name="FILESTATUS_DELETED" value="fb7185" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576687" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4b5fd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="7e8491" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="576687" />
     <option name="FILESTATUS_MERGED" value="81a1c1" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="fde047" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="4ade80" />
+    <option name="FILESTATUS_SWITCHED" value="fb7185" />
+    <option name="FILESTATUS_UNKNOWN" value="fb7185" />
+    <option name="FILESTATUS_addedOutside" value="34d399" />
     <option name="FILESTATUS_changelistConflict" value="d08770" />
-    <option name="FILESTATUS_modifiedOutside" value="facc15" />
+    <option name="FILESTATUS_modifiedOutside" value="fde047" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="293040" />
     <option name="GUTTER_BACKGROUND" value="1f2430" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="10b981" />
