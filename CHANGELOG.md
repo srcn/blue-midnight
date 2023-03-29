@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.7] - 2023-03-29
+### Added
+- Support for new Inlay Text colors
+### Changed
+- Better support for the new UI
+- Better diff colors
+- Better consistency on border/separator colors
+
 ## [2.0.6] - 2023-01-29
 ### Changed
 - Better file status colors
