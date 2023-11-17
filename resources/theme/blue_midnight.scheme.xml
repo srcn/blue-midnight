@@ -9,39 +9,9 @@
     <option name="CARET_ROW_COLOR" value="293040" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1f2430" />
     <option name="DELETED_LINES_COLOR" value="f43f5e" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="d08770" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="d8dee9" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="88c0d0" />
-    <option name="DIAGRAM_INNER_EDGE" value="8fbcbb" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="3b455c" />
-    <option name="DIAGRAM_NODE_HEADER" value="3b455c" />
-    <option name="DIAGRAM_NOTE_BACKGROUND" value="434c5e" />
-    <option name="DIAGRAM_NOTE_BORDER" value="434c5e" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="a3be8c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1f2430" />
-    <option name="DIFF_SEPARATOR_WAVE" value="3b455c" />
     <option name="DOCUMENTATION_COLOR" value="1f2430" />
     <option name="ERROR_HINT" value="293040" />
-    <option name="FILESTATUS_ADDED" value="34d399" />
-    <option name="FILESTATUS_DELETED" value="fb7185" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576687" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="576687" />
-    <option name="FILESTATUS_MERGED" value="81a1c1" />
-    <option name="FILESTATUS_MODIFIED" value="fde047" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="fb7185" />
-    <option name="FILESTATUS_UNKNOWN" value="fb7185" />
-    <option name="FILESTATUS_addedOutside" value="34d399" />
-    <option name="FILESTATUS_changelistConflict" value="d08770" />
-    <option name="FILESTATUS_modifiedOutside" value="fde047" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="293040" />
     <option name="GUTTER_BACKGROUND" value="1f2430" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="10b981" />
@@ -76,6 +46,28 @@
     <option name="VISUAL_INDENT_GUIDE" value="3b455c" />
     <option name="WHITESPACES" value="3b455c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fde047" />
+
+    <option name="FILESTATUS_ADDED" value="34d399" />
+    <option name="FILESTATUS_COPIED" value="34d399"/>
+    <option name="FILESTATUS_DELETED" value="fb7185" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576687" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_MERGED" value="81a1c1" />
+    <option name="FILESTATUS_MODIFIED" value="fde047" />
+    <option name="FILESTATUS_RENAMED" value="fde047"/>
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_UNKNOWN" value="fb7185" />
+    <option name="FILESTATUS_addedOutside" value="34d399" />
+    <option name="FILESTATUS_changelistConflict" value="d08770" />
+    <option name="FILESTATUS_modifiedOutside" value="fde047" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SWITCHED" value="fb7185" />
+
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
