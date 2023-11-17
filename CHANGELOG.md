@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.0] - 2023-11-17
+### Changed
+- Compatibility with 2023.3
+
 ## [2.0.9] - 2023-11-17
 ### Changed
 - Fixed window tab colors
