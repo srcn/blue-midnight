@@ -5,6 +5,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="10b981" />
     <option name="ANNOTATIONS_COLOR" value="576687" />
+    <option name="BREADCRUMBS_BORDER_COLOR" value="151921" />
     <option name="CARET_COLOR" value="d8dee9" />
     <option name="CARET_ROW_COLOR" value="293040" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1f2430" />
@@ -57,8 +58,8 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="161921" />
     <option name="SEPARATOR_BELOW_COLOR" value="161921" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b455c" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ffffff4d" />
-    <option name="ScrollBar.Mac.thumbColor" value="ffffff26" />
+    <option name="ScrollBar.Mac.thumbColor" value="707a8c66" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="707a8c99" />
     <option name="TEARLINE_COLOR" value="3b455c" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1f2430" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="1f2430" />

@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.3] - 2023-11-18
+### Changed
+- Changed borders to dark
+
 ## [2.1.2] - 2023-11-17
 ### Changed
 - Color scheme fixes
