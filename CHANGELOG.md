@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.2] - 2023-11-17
+### Changed
+- Color scheme fixes
+
 ## [2.1.1] - 2023-11-17
 ### Changed
 - Compatibility with 2023.3

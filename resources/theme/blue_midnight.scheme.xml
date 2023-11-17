@@ -11,7 +11,29 @@
     <option name="DELETED_LINES_COLOR" value="f43f5e" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1f2430" />
     <option name="DOCUMENTATION_COLOR" value="1f2430" />
+    <option name="DOC_COMMENT_GUIDE" value="5e81ac" />
+    <option name="DOC_COMMENT_LINK" value="5e81ac" />
     <option name="ERROR_HINT" value="293040" />
+    <option name="FILESTATUS_ADDED" value="34d399" />
+    <option name="FILESTATUS_COPIED" value="34d399" />
+    <option name="FILESTATUS_DELETED" value="fb7185" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576687" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
+    <option name="FILESTATUS_MERGED" value="81a1c1" />
+    <option name="FILESTATUS_MODIFIED" value="fde047" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="fde047" />
+    <option name="FILESTATUS_SWITCHED" value="fb7185" />
+    <option name="FILESTATUS_UNKNOWN" value="fb7185" />
+    <option name="FILESTATUS_addedOutside" value="34d399" />
+    <option name="FILESTATUS_changelistConflict" value="d08770" />
+    <option name="FILESTATUS_modifiedOutside" value="fde047" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="293040" />
     <option name="GUTTER_BACKGROUND" value="1f2430" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="10b981" />
@@ -46,28 +68,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="3b455c" />
     <option name="WHITESPACES" value="3b455c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fde047" />
-
-    <option name="FILESTATUS_ADDED" value="34d399" />
-    <option name="FILESTATUS_COPIED" value="34d399"/>
-    <option name="FILESTATUS_DELETED" value="fb7185" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="66769c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576687" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4b5fd" />
-    <option name="FILESTATUS_MERGED" value="81a1c1" />
-    <option name="FILESTATUS_MODIFIED" value="fde047" />
-    <option name="FILESTATUS_RENAMED" value="fde047"/>
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_UNKNOWN" value="fb7185" />
-    <option name="FILESTATUS_addedOutside" value="34d399" />
-    <option name="FILESTATUS_changelistConflict" value="d08770" />
-    <option name="FILESTATUS_modifiedOutside" value="fde047" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SWITCHED" value="fb7185" />
-
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -107,7 +107,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="BACKGROUND" value="bf616a" />
+        <option name="FOREGROUND" value="bf616a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -581,8 +581,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="bf616a" />
+        <option name="FOREGROUND" value="bf616a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -854,6 +853,12 @@
       <value>
         <option name="FOREGROUND" value="d8dee9" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GRAMMAR_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="bf616a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="GRID_ERROR_VALUE">
@@ -1433,6 +1438,11 @@
         <option name="FOREGROUND" value="8fbab9" />
       </value>
     </option>
+    <option name="NG.BLOCK_NAME">
+      <value>
+        <option name="FOREGROUND" value="d08770" />
+      </value>
+    </option>
     <option name="NG.EVENT_BINDING_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
@@ -1748,6 +1758,12 @@
         <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="ERROR_STRIPE_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="bf616a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
