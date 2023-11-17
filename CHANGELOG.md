@@ -1,22 +1,14 @@
 # Changelog
 
-## [2.1.3] - 2023-11-18
-### Changed
-- Changed borders to dark
-
-## [2.1.2] - 2023-11-17
-### Changed
-- Color scheme fixes
-
-## [2.1.1] - 2023-11-17
+## [2.1.4] - 2023-11-18
 ### Changed
 - Compatibility with 2023.3
+- Changed editor search background
+- Changed borders to dark
+- Color scheme fixes
 - Fixed window tab colors
 - Fixed editor tab colors
 - Adjusted project tree paddings and line-height
-
-## [2.0.9] - 2023-11-17
-### Changed
 
 ## [2.0.8] - 2023-03-29
 ### Changed
