@@ -1,13 +1,14 @@
 # Changelog
 
-## [2.1.0] - 2023-11-17
+## [2.1.1] - 2023-11-17
 ### Changed
 - Compatibility with 2023.3
+- Fixed window tab colors
+- Fixed editor tab colors
+- Adjusted project tree paddings and line-height
 
 ## [2.0.9] - 2023-11-17
 ### Changed
-- Fixed window tab colors
-- Fixed editor tab colors
 
 ## [2.0.8] - 2023-03-29
 ### Changed

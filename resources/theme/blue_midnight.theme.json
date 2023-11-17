@@ -632,9 +632,9 @@
       "collapsedSelectedIcon": "/expui/general/chevronRight.svg",
       "expandedIcon": "/expui/general/chevronDown.svg",
       "expandedSelectedIcon": "/expui/general/chevronDown.svg",
-      "rowHeight": 24,
+      "rowHeight": 26,
       "hash": "Grey5",
-      "border": "4,12,4,12"
+      "border": "0,8,0,8"
     },
 
     "TitlePane": {

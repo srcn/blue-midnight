@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.sercanyemen.themes.idea.blue-midnight</id>
-    <version>2.1.0</version>
+    <version>2.1.1</version>
 
     <name>Blue Midnight</name>
     <vendor email="me@sercanyemen.com" url="http://www.sercanyemen.com">Sercan Yemen</vendor>
@@ -14,17 +14,13 @@
 
     <change-notes><![CDATA[
 
-        <h2><b>[2.1.0] - 2023-11-17</b></h2>
+        <h2><b>[2.1.1] - 2023-11-17</b></h2>
         <b>Changed</b>
         <ul>
             <li>Compatibility with 2023.3</li>
-        </ul>
-
-        <h2><b>[2.0.9] - 2023-11-17</b></h2>
-        <b>Changed</b>
-        <ul>
             <li>Fixed window tab colors</li>
             <li>Fixed editor tab colors</li>
+            <li>Adjusted project tree paddings and line-height</li>
         </ul>
 
         <h2><b>[2.0.8] - 2023-03-29</b></h2>
